@@ -1,5 +1,5 @@
 
-#Movies Info iOS App(Using TMDB Api):
+Movies Info iOS App(Using TMDB Api):
 
 A simple project created using Swift to show the use of Core Data and a REST Api in an iOS application.
 
@@ -15,16 +15,18 @@ All movies information came from The Movie Database website (https://www.themovi
  
  1- Playing_Now page
 
-![](https://github.com/Pandey-NITB/TMDB_Movies_Remote_CoreData/blob/main/Movies%20Info/Assets.xcassets/Screenshots/PN.imageset/PN.png)
+   ![](https://github.com/Pandey-NITB/TMDB_Movies_Remote_CoreData/blob/main/Movies%20Info/Assets.xcassets/Screenshots/PN.imageset/PN.png)
 
  2- Favourites Page
-   ![](https://github.com/Pandey-NITB/TMDB_Movies_Remote_CoreData/blob/main/Movies%20Info/Assets.xcassets/Screenshots/PN.imageset/FM.png)
+ 
+   ![](https://github.com/Pandey-NITB/TMDB_Movies_Remote_CoreData/blob/main/Movies%20Info/Assets.xcassets/Screenshots/Fav.imageset/FM.png)
  
  
  3- Movie Detail Page
-    ![](https://github.com/Pandey-NITB/TMDB_Movies_Remote_CoreData/blob/main/Movies%20Info/Assets.xcassets/Screenshots/PN.imageset/MD.png)
  
-
+   ![](https://github.com/Pandey-NITB/TMDB_Movies_Remote_CoreData/blob/main/Movies%20Info/Assets.xcassets/Screenshots/MD.imageset/MD.png)
+   
+   
 #Clean Architecture & App Info:
 
 This app is implemented using clean architecture having routers, services and viewModels. Used Factory design pattern for ViewControllerFactory. 
