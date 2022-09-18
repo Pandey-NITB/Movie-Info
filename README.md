@@ -13,3 +13,10 @@ Download the zip file and open .xcodeproj. Build and run to install in simulator
 #Features:
  1-App has 4 tabs - Playing now, Trending, Search and Favourites.
  2-User can navigate to Movie details after clicking on any movie. In movie detais page user can bookmark and share the detail page deeplink as well.
+ 
+ Here are some screenshots from the app. 
+ 
+ 1- Playing_Now page
+
+![](https://github.com/Pandey-NITB/TMDB_Movies_Remote_CoreData/blob/main/Movies%20Info/Assets.xcassets/Screenshots/PN.imageset/PN.png)
+
