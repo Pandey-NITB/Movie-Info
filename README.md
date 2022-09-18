@@ -18,5 +18,6 @@ Download the zip file and open .xcodeproj. Build and run to install in simulator
  
  1- Playing_Now page
 
-![](https://github.com/Pandey-NITB/TMDB_Movies_Remote_CoreData/blob/main/Movies%20Info/Assets.xcassets/Screenshots/PN.imageset/PN.png)
+![](https://github.com/Pandey-NITB/TMDB_Movies_Remote_CoreData/blob/main/Movies%20Info/Assets.xcassets/Screenshots/PN.imageset/PN%20(1).png)
+
 
