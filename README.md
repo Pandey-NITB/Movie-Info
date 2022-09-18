@@ -1,3 +1,7 @@
+Movies Info iOS App
+
+Movies Information Remote Api call & offline supports using local DB[Core-Data] (Add - Delete - Edit - Search)
+
 #Basic Architecture & App Info:
 
 This app is implemented using clean architecture having routers, services and viewModels. Used Factory design pattern for ViewControllerFactory. 
