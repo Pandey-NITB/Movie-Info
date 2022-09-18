@@ -1,6 +1,9 @@
-Movies Info iOS App(Using TMDB Api):
 
-Movies Information Remote Api call & offline supports using local DB (Core-Data)
+#Movies Info iOS App(Using TMDB Api):
+
+A simple project created using Swift to show the use of Core Data and a REST Api in an iOS application.
+
+All movies information came from The Movie Database website (https://www.themoviedb.org/). They have this amazing API (https://developers.themoviedb.org/3/getting-started/introduction) that could be used by any one.
 
 #Features:
  1-App has 4 tabs - Playing now, Trending, Search and Favourites.
@@ -12,7 +15,15 @@ Movies Information Remote Api call & offline supports using local DB (Core-Data)
  
  1- Playing_Now page
 
-![](https://github.com/Pandey-NITB/TMDB_Movies_Remote_CoreData/blob/main/Movies%20Info/Assets.xcassets/Screenshots/PN.imageset/PN%20(1).png)
+![](https://github.com/Pandey-NITB/TMDB_Movies_Remote_CoreData/blob/main/Movies%20Info/Assets.xcassets/Screenshots/PN.imageset/PN.png)
+
+ 2- Favourites Page
+   ![](https://github.com/Pandey-NITB/TMDB_Movies_Remote_CoreData/blob/main/Movies%20Info/Assets.xcassets/Screenshots/PN.imageset/FM.png)
+ 
+ 
+ 3- Movie Detail Page
+    ![](https://github.com/Pandey-NITB/TMDB_Movies_Remote_CoreData/blob/main/Movies%20Info/Assets.xcassets/Screenshots/PN.imageset/MD.png)
+ 
 
 #Clean Architecture & App Info:
 
