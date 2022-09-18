@@ -162,6 +162,7 @@
 		112F839628C8DF1F00E8895C /* Movies Info */ = {
 			isa = PBXGroup;
 			children = (
+				11EBBC5228D723CC002698A6 /* App Images */,
 				112F83E028C8E02600E8895C /* ViewControllerFactory */,
 				112F83E328C8E02600E8895C /* Router */,
 				112F83E628C8E02600E8895C /* NetWorkLayer */,
@@ -536,6 +537,13 @@
 				112F844328C8E1FC00E8895C /* MovieItem.swift */,
 			);
 			path = Data;
+			sourceTree = "<group>";
+		};
+		11EBBC5228D723CC002698A6 /* App Images */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "App Images";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
